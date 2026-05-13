@@ -1,0 +1,9 @@
+.env
+acl_test_dir/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+downloads/
+output/
